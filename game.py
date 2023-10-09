@@ -159,5 +159,3 @@ while True:
 
     cv2.imshow("Frame", image)
     cv2.waitKey(1)
-
-print("Terminating")
